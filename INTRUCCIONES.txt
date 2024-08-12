@@ -1,6 +1,5 @@
 
 ERICK DAVID ROSARIO ALCANTARA
-CEDULA: 402-3716804-8
 (ESTUDIANTE DEL ITLA)
 
 ---------------------------------------------------------------------------------------
@@ -9,6 +8,6 @@ Esta app SEARCHERICK, contiene 3 activitiy:
 
 1-El primero contiene una pantalla de bienvenida a la app, no iba incluida en la tarea, pero lo agregue.
 ----------------------------------------------------------------------------------------
-2-El segundo activity contiene la primera pantalla de la tarea, este que si el EditView no est· lleno no pasara a ning˙n lado. Si quiere acceder a la parte de las opciones como YouTube, Google...etc, deber· llenar el EditView con lo que desea buscar en cualquiera de estas p·ginas. Sino no desea seleccionar ningunas de las opciones solo tocar la lupa de la derecha y ira directamente a buscar la informaciÛn introducida en el EditView.
+2-El segundo activity contiene la primera pantalla de la tarea, este que si el EditView no est√° lleno no pasara a ning√∫n lado. Si quiere acceder a la parte de las opciones como YouTube, Google...etc, deber√° llenar el EditView con lo que desea buscar en cualquiera de estas p√°ginas. Sino no desea seleccionar ningunas de las opciones solo tocar la lupa de la derecha y ira directamente a buscar la informaci√≥n introducida en el EditView.
 ----------------------------------------------------------------------------------------
-3-El tercero no es m·s que la pantalla que contiene la WEBVIEW.
+3-El tercero no es m√°s que la pantalla que contiene la WEBVIEW.
